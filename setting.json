@@ -1,18 +1,18 @@
 {
-    "title": "Auroraの主页",
-    "description": "一个默默无闻的主页",
-    "keywords": "Aurora,个人主页",
+    "title": "简单の主页",
+    "description": "一个平平无奇的主页",
+    "keywords": "简单,个人主页",
     "author": "Aurora",
     "logo_img": "./img/icon/avatar.jpg",
-    "logo_text_1": "wuhobin",
+    "logo_text_1": "Simple",
     "logo_text_2": "top",
-    "github": "wuhobin",
-    "qq": "1289066006",
-    "email": "1289066006@qq.com",
-    "bilibili": "495003013",
+    "github": "fq7944",
+    "qq": "45592909",
+    "email": "45592909@qq.com",
+    "bilibili": "bottom_user",
     "facebook": "bottom_user",
     "link_1": [
-        "http://blog.wuhobin.top/",
+        "https://fq7944.github.io/",
         "fa-solid fa-blog",
         "博客"
     ],
@@ -22,7 +22,7 @@
         "统计"
     ],
     "link_3": [
-        "http://www.wuhobin.top/",
+        "https://fq7944.github.io/",
         "fa-solid fa-compass",
         "起始页"
     ],
@@ -32,15 +32,15 @@
         "网址集"
     ],
     "link_5": [
-        "http://www.wuhobin.top/",
+        "https://fq7944.github.io/",
         "fa-solid fa-flask",
         "开发中..."
     ],
     "link_6": [
-        "http://www.wuhobin.top/",
+        "https://fq7944.github.io/",
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "Aurora",
+    "Copyright_text": "Simple",
     "beian": "鄂ICP备20006685号"
 }
