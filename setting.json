@@ -1,0 +1,46 @@
+﻿{
+    "title": "简单の主页",
+    "description": "一个平平无奇的主页",
+    "keywords": "Simple,个人主页",
+    "author": "Simple",
+    "logo_img": "./img/icon/avatar.jpg",
+    "logo_text_1": "Simple",
+    "logo_text_2": "top",
+    "github": "Simple",
+    "qq": "45592909",
+    "email": "@qq.com",
+    "bilibili": "",
+    "facebook": "bottom_user",
+    "link_1": [
+        "https://fq7944.github.io/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://tongji.baidu.com/",
+        "fa-solid fa-cloud",
+        "统计"
+    ],
+    "link_3": [
+        "https://fq7944.github.io/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_4": [
+        "https://fq7944.github.io/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_5": [
+        "https://fq7944.github.io/",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "link_6": [
+        "https://fq7944.github.io/",
+        "fa-solid fa-flask",
+        "敬请期待..."
+    ],
+    "Copyright_text": "Simple",
+    "beian": ""
+}
